@@ -52,9 +52,9 @@ export function App() {
       hasYoutubeVideo: false,
       youtubeVideo: '',
       isLaunched: true,
-      projectLink: 'https://jlucas1224.github.io/jlucas2002/',
+      projectLink: 'https://jlucas1224.github.io/web-portfolio-2.0/',
       hasRepository: true,
-      repositoryLink: 'https://github.com/jlucas1224/jlucas2002',
+      repositoryLink: 'https://github.com/jlucas1224/web-portfolio-2.0',
     },
     {
       name: 'Notes',
