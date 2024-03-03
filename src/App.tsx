@@ -188,7 +188,7 @@ export function App() {
         </main>
 
         <div className="pt-8" id="about_me"></div>
-        <section className="text-2xl text-center max-w-6xl h-[25vh] my-12 px-5 lg:mx-auto space-y-6 hide hide-1 scroll-pb-8">
+        <section className="text-2xl text-center max-w-6xl min-h-[25vh] my-12 px-5 lg:mx-auto space-y-6 hide hide-1 scroll-pb-8">
           <span className="text-5xl font-bold">Sobre mim</span>
           <p className="text-blue-500">Bem-vindo ao meu espaço digital! Sou João Lucas, desenvolvedor web. Apaixonado por transformar ideias em código, tenho explorado as nuances do desenvolvimento web. </p>
           <p className="text-blue-500">Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado para aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
